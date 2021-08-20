@@ -1,0 +1,15 @@
+twist - 1 to 3
+
+straight up - 4 to 8
+
+straight back - 9 to 14
+
+knot less - 15 to 27
+
+free hand - 28 to 49
+
+cornrows - 50 to 57
+
+braids with beats - 58 to 72
+
+bonding - 73
